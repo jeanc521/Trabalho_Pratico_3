@@ -1,0 +1,31 @@
+<?php
+/*
+***************************
+Curso: Tecnologia em Análise e Desenvolvimento de Sistemas
+Disciplina: Linguagem e Técnicas de Programação
+Professor: Flores
+Turma: ADS2A
+
+Componentes:
+26013478-2 - Davi Ferreira da Costa
+26008617-2 - Fernando Cesar Cravo
+26008668-2 - Gabriel Eduardo Consorte
+26010149-2 - Jean Carlos
+26007982-2 - João Gabriel Subtil
+
+Data: 23 de Setembro de 2026
+
+Descritivo:
+03: Exiba o valor de x acrescido em uma unidade.
+***************************
+*/
+
+$x = 10;
+
+echo "Resultado = " . ($x + 1);
+
+/*
+Explicação:
+O programa soma 1 ao valor de x sem alterar a variável original.
+*/
+?>
